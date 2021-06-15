@@ -1,0 +1,1 @@
+`fuseml codeset register --name "mlflow-wines" --project "mlflow-project-01" "fuseml-examples/codesets/mlflow-wines"`{{execute}}
